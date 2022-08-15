@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @FranciscoXavier97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+Hello, Welcome to my space of learnig!!, Let me introduce myself
+- 😎 Hi, I'm Francisco javier 
+- 👨‍💻 I´m a computer systems engineer. 
+- 👨‍🎓 Graduated from Instituto Tecnologico de Saltillo. 
+- 💻 I’m currently learning in web applications (frontend and backend)
+- 📚 Robotics,Electronics,Languages of programming and Databases
 - 📫 How to reach me ...
-
-<!---
-FranciscoXavier97/FranciscoXavier97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+      Francisco_its_1997@hotmail.com
